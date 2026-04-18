@@ -46,9 +46,9 @@ npm start
 
 ## 🧪 Example Inputs
 
-* Elon Musk founded SpaceX and Tesla
-* Aliens control governments
-* Time travel is used secretly
+* Treasury Secretary Mnuchin was sent gift-wrapped box of horse manure: reports
+* Publisher Announces Books By The Obamas Are Officially On The Way
+* Exclusive: Senator Cruz wants to cap renewable fuel credits at 10 cents - document
 
 ---
 
