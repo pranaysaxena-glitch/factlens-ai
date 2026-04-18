@@ -1,2 +1,74 @@
-# factlens-ai
-AI system to detect factual vs hallucinated statements with a modern chat UI.
+# 🔍 FactLens AI
+
+FactLens is an AI-powered system that detects whether a statement is **Factual or Hallucinated** using NLP and machine learning.
+
+---
+
+## 🚀 Features
+
+* 🧠 AI-based hallucination detection
+* 📊 Machine learning model (TF-IDF + Logistic Regression)
+* 🌐 Evidence retrieval using Wikipedia
+* 💬 ChatGPT-style UI
+* 📌 Pin important responses
+* 💾 Persistent memory
+* 🌌 Animated UI
+
+---
+
+## 🛠 Tech Stack
+
+Frontend:
+
+* React.js
+* Framer Motion
+
+Backend:
+
+* FastAPI
+* Scikit-learn
+
+---
+
+## ▶️ Run Project
+
+### Backend
+
+cd api
+uvicorn main:app --reload
+
+### Frontend
+
+cd frontend-react
+npm start
+
+---
+
+## 🧪 Example Inputs
+
+* Elon Musk founded SpaceX and Tesla
+* Aliens control governments
+* Time travel is used secretly
+
+---
+
+## 💡 Ideas & Contributions
+
+I welcome suggestions and improvements!
+
+You can:
+
+* Suggest features
+* Improve model accuracy
+* Enhance UI
+* Add advanced AI models
+
+---
+
+## 👨‍💻 Author
+
+Pranay Saxena
+
+---
+
+⭐ Star this repo if you like it!
